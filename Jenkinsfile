@@ -1,5 +1,6 @@
 pipeline {
      agent any
+     stages {
         stage("Package") {
 steps {
 sh "./gradlew build"
@@ -35,3 +36,5 @@ sh "docker stop calculator"
 }
 }
 }
+}
+
