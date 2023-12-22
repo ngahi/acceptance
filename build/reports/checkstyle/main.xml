@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/sam/acceptance/src/main/java/com/chaffai/calculator/CalculatorController.java">
+</file>
+<file name="/home/sam/acceptance/src/main/java/com/chaffai/calculator/Calculator.java">
+</file>
+<file name="/home/sam/acceptance/src/main/java/com/chaffai/calculator/CalculatorApplication.java">
+</file>
+</checkstyle>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chaffai.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-08T09:19:45" hostname="sam-770Z5E-780Z5E-870Z5E-880Z5E" time="0.092">
+  <properties/>
+  <testcase name="testSum()" classname="com.chaffai.calculator.CalculatorTest" time="0.092"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
